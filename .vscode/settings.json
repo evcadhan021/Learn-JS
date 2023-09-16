@@ -1,0 +1,14 @@
+{
+        "editor.tabSize": 8,
+        "editor.fontFamily": "'Droid Sans Mono', 'monospace', monospace",
+        "editor.fontSize": 14,
+        "editor.codeLensFontSize": 0,
+        "editor.letterSpacing": 0,
+        "terminal.integrated.letterSpacing": 0,
+        "workbench.commandPalette.experimental.suggestCommands": false,
+        "workbench.commandPalette.experimental.useSemanticSimilarity": false,
+        "workbench.commandPalette.history": 50,
+        "debug.console.lineHeight": 5,
+        "search.searchEditor.defaultNumberOfContextLines": 2,
+        "editor.stickyScroll.maxLineCount": 5
+}
